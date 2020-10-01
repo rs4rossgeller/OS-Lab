@@ -1,4 +1,4 @@
-// LS command simulation using C
+// Lab 1 -  LS command simulation using C
 
 #include<stdio.h>
     #include<string.h>
