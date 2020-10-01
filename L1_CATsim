@@ -1,4 +1,4 @@
-// CAT command simulation using C
+// Lab 1 - CAT command simulation using C
 
 #include <sys/types.h>
 #include <sys/stat.h>
